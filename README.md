@@ -1,1 +1,1 @@
-# Regression-and-Multivariate-Analysis
+# Regression and Multivariate Analysis
