@@ -10,3 +10,5 @@ Outlier Detection, Statistical Inference vs. Predictive Modeling
 Forward, Backward and Stepwise Variable Selection Algorithms
 * [Multicollinearity and Principal Components Analysis](Assignment6_Hernandez.R)  
 Variance Inflation Factor (VIF), Dimensionality Reduction
+
+Note: Each project has an accompanying report that provides an analysis of the results, overview of methods used and final takeaways.  
